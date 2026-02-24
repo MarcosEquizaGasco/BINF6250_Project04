@@ -81,9 +81,10 @@ I found the project to be fairly straightforward to understand, and working with
 
 ## Other member
 ## Marcos
-
+While conceptually this project was pretty manageable, getting our algorithm to work with the mouse genome read was much more difficult. We met a few times to discuss the outline of the algorithm, which was very helpful to get organized and understand the concept. During those meetings, we also live-coded the implementation, helping each other with the syntax and different coding techniques. This was very successful for the toy example, where we were able to return the expected aligned contig in a matter of seconds. On the other hand, when assembling the mouse data, just the building of the graph took a very long time (running overnight). We tried to brainstorm ways to optimize the code so it would be faster, and decided to deduplicate entries in the graph so that it would not have to perform as many operations. Even with this change, it still took a very long time. 
 
 ## Sneha
+I enjoyed working with Shameem and Marcos, and I found our meetings to be productive and helpful. I appreciated that we took time to talk through the concepts involved in the project, plan out each of our functions, and write out our pseudocode in the beginning. We all were able to share our ideas to troubleshoot and come up with different approaches. I think this planning made the implementation a lot easier. Everyone was willing to meet to work on the code together, which I found really helpful to be able to talk about our thought processes out loud. In the beginning I was most intimidated by the Eularian walk concept and how to implement it, but after being able to talk with my teammates, ask questions, and implement it together, I feel a lot more confident.
 
 # Generative AI Appendix
 As per the syllabus
