@@ -80,9 +80,10 @@ We did stumble across errors in our code while we were working through each meth
 I found the project to be fairly straightforward to understand, and working with my team was a great experience. Our meetings went well ansomething I appreciated was being able to ask questions and help each other stay on the same page. After the last few projects, we all knew the pseudocode needed the most time and energy, and that's exactly where we started. After that stage, the rest went smoothly, and we were all in a meeting whenever code was worked on, which made this project feel the most collaborative for me since barely any work was done asynchronously. Overall, it went really well, and I am happy with the work we produced.
 
 ## Other member
-##Marcos
+## Marcos
 
-##Sneha
+
+## Sneha
 
 # Generative AI Appendix
 As per the syllabus
