@@ -72,7 +72,7 @@ close the file
 Our collaboration was one of the major successes with our project. We planned out our availability early on so we were able to allocate time to work on the pseudocode and its implementation together. Almost all of our work was done synchronously, which helped us bounce ideas and contribute towards the project. We also spent a significant amount of time on our pseudocode and planning, which made the coding part of our project much easier to tackle.
 
 # Struggles
-We did stumble across errors in our code while we were working through each method, but we were able to solve them as they came along. Thankfully, we didn't have any other major struggles holding back our productivity or getting us stuck in the code.
+We did stumble across errors in our code while we were working through each method, but we were able to solve them as they came along. Thankfully, we didn't have any other major struggles holding back our productivity or getting us stuck in the code. Understanding recursion as a concept was also a challenge for all of us in the group, as well as the Eulerian walk, but we were able to talk through each concept and come to an understanding together.
 
 # Personal Reflections
 ## Group Leader
